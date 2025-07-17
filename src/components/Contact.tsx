@@ -97,8 +97,18 @@ const Contact = () => {
 
               <div className="bg-white rounded-xl p-8 shadow-lg">
                 <h3 className="text-xl font-bold text-gray-800 mb-4">Visit Our Office</h3>
-                <div className="bg-gray-200 rounded-lg h-64 flex items-center justify-center">
-                  <p className="text-gray-600">Interactive Map Placeholder</p>
+                <div className="bg-gray-200 rounded-lg overflow-hidden h-64 flex items-center justify-center">
+                  <iframe
+                    title="IC Smile Location Map"
+                    src="https://www.google.com/maps?q=123+Dental+Avenue+Healthcare+City+HC+12345&output=embed"
+                    width="100%"
+                    height="100%"
+                    style={{ border: 0 }}
+                    allowFullScreen
+                    loading="lazy"
+                    referrerPolicy="no-referrer-when-downgrade"
+                    className="w-full h-64 rounded-lg border-none"
+                  ></iframe>
                 </div>
                 <div className="mt-4 space-y-2">
                   <p className="text-gray-600">
