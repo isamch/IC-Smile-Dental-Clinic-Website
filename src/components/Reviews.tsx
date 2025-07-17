@@ -6,7 +6,7 @@ const Reviews = () => {
     {
       name: "Sarah Johnson",
       rating: 5,
-      review: "Dr. Smith and the entire team at IC SmilePro are absolutely wonderful. They made me feel comfortable throughout my entire treatment. My smile has never looked better!",
+      review: "Dr. Smith and the entire team at IC Smile are absolutely wonderful. They made me feel comfortable throughout my entire treatment. My smile has never looked better!",
       treatment: "Porcelain Veneers",
       image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=150"
     },
@@ -42,7 +42,7 @@ const Reviews = () => {
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Don't just take our word for it. Here's what our patients have to say about 
-            their experience at IC SmilePro.
+            their experience at IC Smile.
           </p>
         </div>
 

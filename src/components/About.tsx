@@ -14,7 +14,7 @@ const About = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
-            About IC SmilePro
+            About IC Smile
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             For over 15 years, we've been transforming smiles and lives with our comprehensive 
@@ -26,7 +26,7 @@ const About = () => {
           <div className="space-y-6">
             <h3 className="text-2xl font-bold text-gray-800">Our Mission</h3>
             <p className="text-gray-600 leading-relaxed">
-              At IC SmilePro, we believe everyone deserves a confident, healthy smile. Our mission is to 
+              At IC Smile, we believe everyone deserves a confident, healthy smile. Our mission is to 
               provide exceptional dental care in a comfortable, welcoming environment using the latest 
               technology and techniques.
             </p>

@@ -16,10 +16,10 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="w-10 h-10 bg-sky-500 rounded-full flex items-center justify-center">
-                <span className="text-white font-bold text-xl">IC</span>
+                <span className="text-white font-bold text-xl">IC Smile</span>
               </div>
               <div>
-                <h3 className="text-2xl font-bold">SmilePro</h3>
+                <h3 className="text-2xl font-bold">IC Smile</h3>
                 <p className="text-sm text-gray-400">Dental Excellence</p>
               </div>
             </div>
@@ -115,7 +115,7 @@ const Footer = () => {
         <div className="border-t border-gray-700 pt-8 mt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 IC SmilePro. All rights reserved.
+              © 2024 IC Smile. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-sky-500 transition-colors text-sm">

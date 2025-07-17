@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Menu, X, Phone, Mail } from 'lucide-react';
 
 const Header = () => {
@@ -47,10 +47,10 @@ const Header = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center space-x-2">
             <div className="w-10 h-10 bg-sky-500 rounded-full flex items-center justify-center">
-              <span className="text-white font-bold text-xl">IC</span>
+              <span className="text-white font-bold text-xl">IC Smile</span>
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-800">SmilePro</h1>
+              <h1 className="text-2xl font-bold text-gray-800">IC Smile</h1>
               <p className="text-xs text-gray-600">Dental Excellence</p>
             </div>
           </div>
