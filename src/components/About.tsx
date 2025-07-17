@@ -1,4 +1,3 @@
-import React from 'react';
 import { Users, Clock, MapPin, Trophy } from 'lucide-react';
 
 const About = () => {
