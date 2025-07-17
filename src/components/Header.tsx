@@ -46,8 +46,8 @@ const Header = () => {
       <nav className="container mx-auto px-4 py-4">
         <div className="flex justify-between items-center">
           <div className="flex items-center space-x-2">
-            <div className="w-10 h-10 bg-sky-500 rounded-full flex items-center justify-center">
-              <span className="text-white font-bold text-xl">IC Smile</span>
+            <div className="w-10 h-10 bg-sky-500 rounded-full flex items-center justify-center overflow-hidden">
+              <img src="https://png.pngtree.com/png-clipart/20220111/original/pngtree-gradient-dental-logo-png-png-image_7072759.png" alt="IC Smile Logo" className="w-8 h-8 object-contain" />
             </div>
             <div>
               <h1 className="text-2xl font-bold text-gray-800">IC Smile</h1>

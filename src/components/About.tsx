@@ -36,19 +36,27 @@ const About = () => {
             </p>
             <div className="space-y-4">
               <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-sky-500 rounded-full mt-2"></div>
+                <div className="w-10 h-10 bg-sky-500 rounded-full flex items-center justify-center overflow-hidden">
+                  <img src="https://png.pngtree.com/png-clipart/20220111/original/pngtree-gradient-dental-logo-png-png-image_7072759.png" alt="IC Smile Logo" className="w-8 h-8 object-contain" />
+                </div>
                 <p className="text-gray-600">State-of-the-art dental technology</p>
               </div>
               <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-sky-500 rounded-full mt-2"></div>
+                <div className="w-10 h-10 bg-sky-500 rounded-full flex items-center justify-center overflow-hidden">
+                  <img src="https://png.pngtree.com/png-clipart/20220111/original/pngtree-gradient-dental-logo-png-png-image_7072759.png" alt="IC Smile Logo" className="w-8 h-8 object-contain" />
+                </div>
                 <p className="text-gray-600">Comprehensive treatment options</p>
               </div>
               <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-sky-500 rounded-full mt-2"></div>
+                <div className="w-10 h-10 bg-sky-500 rounded-full flex items-center justify-center overflow-hidden">
+                  <img src="https://png.pngtree.com/png-clipart/20220111/original/pngtree-gradient-dental-logo-png-png-image_7072759.png" alt="IC Smile Logo" className="w-8 h-8 object-contain" />
+                </div>
                 <p className="text-gray-600">Comfortable, anxiety-free experience</p>
               </div>
               <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-sky-500 rounded-full mt-2"></div>
+                <div className="w-10 h-10 bg-sky-500 rounded-full flex items-center justify-center overflow-hidden">
+                  <img src="https://png.pngtree.com/png-clipart/20220111/original/pngtree-gradient-dental-logo-png-png-image_7072759.png" alt="IC Smile Logo" className="w-8 h-8 object-contain" />
+                </div>
                 <p className="text-gray-600">Flexible scheduling and payment options</p>
               </div>
             </div>
