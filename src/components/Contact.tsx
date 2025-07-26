@@ -12,7 +12,6 @@ const Contact = () => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     // Handle form submission here
-    console.log('Contact form submitted:', formData);
     alert('Thank you for your message! We will get back to you soon.');
   };
 

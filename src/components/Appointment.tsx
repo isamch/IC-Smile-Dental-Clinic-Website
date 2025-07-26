@@ -16,7 +16,6 @@ const Appointment = () => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     // Handle form submission here
-    console.log('Form submitted:', formData);
     alert('Thank you for your appointment request! We will contact you soon to confirm your appointment.');
   };
 
